@@ -24,4 +24,4 @@ Se demostró una correlación inversa significativa entre la Tasa del Tesoro a 1
 El modelo de Facebook Prophet proyecta una tendencia alcista estructural para el ciclo 2025-2026, aunque con un ensanchamiento en los intervalos de confianza, indicando mayor volatilidad futura.
 
 ---
-*Desarrollado por [Tu Nombre] - Economista & Data Scientist*
+*Desarrollado por axel giraldo - Economista & Data Scientist*
